@@ -1,0 +1,28 @@
+/*
+Template Name: Property
+Author: BBBootstrap
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+
+@import "variable";
+@import "bootstrap/bootstrap.scss";
+@import "./global";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css";
+
+
+
+//  Layout
+@import "../scss/layout/footer/footer-dark/footer-dark";
+@import "../scss/layout/header/header";
+
+
+
+
+@import "../scss/banners/banner-real-estate/banner-real-estate";
+@import "../scss/config/theme-variable/theme-variable";
+@import "../scss/features/features-real-estate/features-real-estate";
+@import "../scss/services/services-real-estate/services-real-estate";
+@import "../scss/pricing/pricing-real-estate/pricing-real-estate";
+@import "../scss/listing/listing-real-estate/listing-real-estate";
+@import "../scss/responsive";

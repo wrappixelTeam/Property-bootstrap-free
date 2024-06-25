@@ -1,0 +1,9 @@
+.Property-card-img {
+    bottom: -30px;
+    right: 60px;
+    position: absolute;
+
+    @include media-breakpoint-down(lg) {
+        position: static;
+    }
+}
